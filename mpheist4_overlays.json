@@ -1,0 +1,299 @@
+[
+  {
+    "Name": "TAT_H4_000",
+    "LocalizedName": "Headphone Splat",
+    "HashNameMale": "MP_Heist4_Tat_000_M",
+    "HashNameFemale": "MP_Heist4_Tat_000_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 26400
+  },
+  {
+    "Name": "TAT_H4_001",
+    "LocalizedName": "Tropical Dude",
+    "HashNameMale": "MP_Heist4_Tat_001_M",
+    "HashNameFemale": "MP_Heist4_Tat_001_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 38550
+  },
+  {
+    "Name": "TAT_H4_002",
+    "LocalizedName": "Jellyfish Shades",
+    "HashNameMale": "MP_Heist4_Tat_002_M",
+    "HashNameFemale": "MP_Heist4_Tat_002_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 28500
+  },
+  {
+    "Name": "TAT_H4_003",
+    "LocalizedName": "Lighthouse",
+    "HashNameMale": "MP_Heist4_Tat_003_M",
+    "HashNameFemale": "MP_Heist4_Tat_003_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 34650
+  },
+  {
+    "Name": "TAT_H4_004",
+    "LocalizedName": "Skeleton Breeze",
+    "HashNameMale": "MP_Heist4_Tat_004_M",
+    "HashNameFemale": "MP_Heist4_Tat_004_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 39150
+  },
+  {
+    "Name": "TAT_H4_005",
+    "LocalizedName": "LSUR",
+    "HashNameMale": "MP_Heist4_Tat_005_M",
+    "HashNameFemale": "MP_Heist4_Tat_005_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 27000
+  },
+  {
+    "Name": "TAT_H4_006",
+    "LocalizedName": "Music Locker",
+    "HashNameMale": "MP_Heist4_Tat_006_M",
+    "HashNameFemale": "MP_Heist4_Tat_006_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 27000
+  },
+  {
+    "Name": "TAT_H4_007",
+    "LocalizedName": "Skeleton DJ",
+    "HashNameMale": "MP_Heist4_Tat_007_M",
+    "HashNameFemale": "MP_Heist4_Tat_007_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 22450
+  },
+  {
+    "Name": "TAT_H4_008",
+    "LocalizedName": "Smiley Glitch",
+    "HashNameMale": "MP_Heist4_Tat_008_M",
+    "HashNameFemale": "MP_Heist4_Tat_008_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 18550
+  },
+  {
+    "Name": "TAT_H4_009",
+    "LocalizedName": "Scratch Panther",
+    "HashNameMale": "MP_Heist4_Tat_009_M",
+    "HashNameFemale": "MP_Heist4_Tat_009_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 25650
+  },
+  {
+    "Name": "TAT_H4_010",
+    "LocalizedName": "Tropical Serpent",
+    "HashNameMale": "MP_Heist4_Tat_010_M",
+    "HashNameFemale": "MP_Heist4_Tat_010_F",
+    "Zone": "ZONE_LEFT_LEG",
+    "ZoneID": 4,
+    "Price": 26550
+  },
+  {
+    "Name": "TAT_H4_011",
+    "LocalizedName": "Soulwax",
+    "HashNameMale": "MP_Heist4_Tat_011_M",
+    "HashNameFemale": "MP_Heist4_Tat_011_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 27000
+  },
+  {
+    "Name": "TAT_H4_012",
+    "LocalizedName": "Still Slipping",
+    "HashNameMale": "MP_Heist4_Tat_012_M",
+    "HashNameFemale": "MP_Heist4_Tat_012_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 27000
+  },
+  {
+    "Name": "TAT_H4_013",
+    "LocalizedName": "Wild Dancers",
+    "HashNameMale": "MP_Heist4_Tat_013_M",
+    "HashNameFemale": "MP_Heist4_Tat_013_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 40100
+  },
+  {
+    "Name": "TAT_H4_014",
+    "LocalizedName": "Paradise Nap",
+    "HashNameMale": "MP_Heist4_Tat_014_M",
+    "HashNameFemale": "MP_Heist4_Tat_014_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 42300
+  },
+  {
+    "Name": "TAT_H4_015",
+    "LocalizedName": "Paradise Ukulele",
+    "HashNameMale": "MP_Heist4_Tat_015_M",
+    "HashNameFemale": "MP_Heist4_Tat_015_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 61100
+  },
+  {
+    "Name": "TAT_H4_016",
+    "LocalizedName": "Rose Panther",
+    "HashNameMale": "MP_Heist4_Tat_016_M",
+    "HashNameFemale": "MP_Heist4_Tat_016_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 48850
+  },
+  {
+    "Name": "TAT_H4_017",
+    "LocalizedName": "Tropical Sorcerer",
+    "HashNameMale": "MP_Heist4_Tat_017_M",
+    "HashNameFemale": "MP_Heist4_Tat_017_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 57750
+  },
+  {
+    "Name": "TAT_H4_018",
+    "LocalizedName": "Record Head",
+    "HashNameMale": "MP_Heist4_Tat_018_M",
+    "HashNameFemale": "MP_Heist4_Tat_018_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 49900
+  },
+  {
+    "Name": "TAT_H4_019",
+    "LocalizedName": "Record Shot",
+    "HashNameMale": "MP_Heist4_Tat_019_M",
+    "HashNameFemale": "MP_Heist4_Tat_019_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 31500
+  },
+  {
+    "Name": "TAT_H4_020",
+    "LocalizedName": "Speaker Tower",
+    "HashNameMale": "MP_Heist4_Tat_020_M",
+    "HashNameFemale": "MP_Heist4_Tat_020_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 40500
+  },
+  {
+    "Name": "TAT_H4_021",
+    "LocalizedName": "Skull Surfer",
+    "HashNameMale": "MP_Heist4_Tat_021_M",
+    "HashNameFemale": "MP_Heist4_Tat_021_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 64350
+  },
+  {
+    "Name": "TAT_H4_022",
+    "LocalizedName": "Paradise Sirens",
+    "HashNameMale": "MP_Heist4_Tat_022_M",
+    "HashNameFemale": "MP_Heist4_Tat_022_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 46770
+  },
+  {
+    "Name": "TAT_H4_023",
+    "LocalizedName": "Techno Glitch",
+    "HashNameMale": "MP_Heist4_Tat_023_M",
+    "HashNameFemale": "MP_Heist4_Tat_023_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 30450
+  },
+  {
+    "Name": "TAT_H4_024",
+    "LocalizedName": "Pineapple Skull",
+    "HashNameMale": "MP_Heist4_Tat_024_M",
+    "HashNameFemale": "MP_Heist4_Tat_024_F",
+    "Zone": "ZONE_LEFT_LEG",
+    "ZoneID": 4,
+    "Price": 27800
+  },
+  {
+    "Name": "TAT_H4_025",
+    "LocalizedName": "Glow Princess",
+    "HashNameMale": "MP_Heist4_Tat_025_M",
+    "HashNameFemale": "MP_Heist4_Tat_025_F",
+    "Zone": "ZONE_LEFT_LEG",
+    "ZoneID": 4,
+    "Price": 26700
+  },
+  {
+    "Name": "TAT_H4_026",
+    "LocalizedName": "Shark Water",
+    "HashNameMale": "MP_Heist4_Tat_026_M",
+    "HashNameFemale": "MP_Heist4_Tat_026_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 37000
+  },
+  {
+    "Name": "TAT_H4_027",
+    "LocalizedName": "Skullphones",
+    "HashNameMale": "MP_Heist4_Tat_027_M",
+    "HashNameFemale": "MP_Heist4_Tat_027_F",
+    "Zone": "ZONE_RIGHT_LEG",
+    "ZoneID": 5,
+    "Price": 24350
+  },
+  {
+    "Name": "TAT_H4_028",
+    "LocalizedName": "Skull Waters",
+    "HashNameMale": "MP_Heist4_Tat_028_M",
+    "HashNameFemale": "MP_Heist4_Tat_028_F",
+    "Zone": "ZONE_LEFT_LEG",
+    "ZoneID": 4,
+    "Price": 28950
+  },
+  {
+    "Name": "TAT_H4_029",
+    "LocalizedName": "Soundwaves",
+    "HashNameMale": "MP_Heist4_Tat_029_M",
+    "HashNameFemale": "MP_Heist4_Tat_029_F",
+    "Zone": "ZONE_LEFT_LEG",
+    "ZoneID": 4,
+    "Price": 17850
+  },
+  {
+    "Name": "TAT_H4_030",
+    "LocalizedName": "Radio Tape",
+    "HashNameMale": "MP_Heist4_Tat_030_M",
+    "HashNameFemale": "MP_Heist4_Tat_030_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 37950
+  },
+  {
+    "Name": "TAT_H4_031",
+    "LocalizedName": "Octopus Shades",
+    "HashNameMale": "MP_Heist4_Tat_031_M",
+    "HashNameFemale": "MP_Heist4_Tat_031_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 31600
+  },
+  {
+    "Name": "TAT_H4_032",
+    "LocalizedName": "K.U.L.T. 99.1 FM",
+    "HashNameMale": "MP_Heist4_Tat_032_M",
+    "HashNameFemale": "MP_Heist4_Tat_032_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 27000
+  }
+]
