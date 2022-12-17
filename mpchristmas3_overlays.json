@@ -1,0 +1,470 @@
+[
+  {
+    "Name": "TAT_X6_000",
+    "LocalizedName": "The Christmas Spirit",
+    "HashNameMale": "MP_Christmas3_Tat_000_M",
+    "HashNameFemale": "MP_Christmas3_Tat_000_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 27600
+  },
+  {
+    "Name": "TAT_X6_001",
+    "LocalizedName": "Festive Reaper",
+    "HashNameMale": "MP_Christmas3_Tat_001_M",
+    "HashNameFemale": "MP_Christmas3_Tat_001_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 29500
+  },
+  {
+    "Name": "TAT_X6_002",
+    "LocalizedName": "Skull Bauble",
+    "HashNameMale": "MP_Christmas3_Tat_002_M",
+    "HashNameFemale": "MP_Christmas3_Tat_002_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 24100
+  },
+  {
+    "Name": "TAT_X6_003",
+    "LocalizedName": "Bony Snowman",
+    "HashNameMale": "MP_Christmas3_Tat_003_M",
+    "HashNameFemale": "MP_Christmas3_Tat_003_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 28500
+  },
+  {
+    "Name": "TAT_X6_004",
+    "LocalizedName": "Herbal Bouquet",
+    "HashNameMale": "MP_Christmas3_Tat_004_M",
+    "HashNameFemale": "MP_Christmas3_Tat_004_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 29100
+  },
+  {
+    "Name": "TAT_X6_005",
+    "LocalizedName": "Cash Krampus",
+    "HashNameMale": "MP_Christmas3_Tat_005_M",
+    "HashNameFemale": "MP_Christmas3_Tat_005_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 31200
+  },
+  {
+    "Name": "TAT_X6_006",
+    "LocalizedName": "All In One Night",
+    "HashNameMale": "MP_Christmas3_Tat_006_M",
+    "HashNameFemale": "MP_Christmas3_Tat_006_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 44800
+  },
+  {
+    "Name": "TAT_X6_007",
+    "LocalizedName": "A Little Present For You",
+    "HashNameMale": "MP_Christmas3_Tat_007_M",
+    "HashNameFemale": "MP_Christmas3_Tat_007_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 52000
+  },
+  {
+    "Name": "TAT_X6_008",
+    "LocalizedName": "Gingerbread Steed",
+    "HashNameMale": "MP_Christmas3_Tat_008_M",
+    "HashNameFemale": "MP_Christmas3_Tat_008_F",
+    "Zone": "ZONE_RIGHT_LEG",
+    "ZoneID": 5,
+    "Price": 31100
+  },
+  {
+    "Name": "TAT_X6_009",
+    "LocalizedName": "Naughty Snow Globe",
+    "HashNameMale": "MP_Christmas3_Tat_009_M",
+    "HashNameFemale": "MP_Christmas3_Tat_009_F",
+    "Zone": "ZONE_LEFT_LEG",
+    "ZoneID": 4,
+    "Price": 32400
+  },
+  {
+    "Name": "TAT_X6_010",
+    "LocalizedName": "Dude",
+    "HashNameMale": "MP_Christmas3_Tat_010_M",
+    "HashNameFemale": "MP_Christmas3_Tat_010_F",
+    "Zone": "ZONE_HEAD",
+    "ZoneID": 1,
+    "Price": 27750
+  },
+  {
+    "Name": "TAT_X6_011",
+    "LocalizedName": "Fooligan Tribal",
+    "HashNameMale": "MP_Christmas3_Tat_011_M",
+    "HashNameFemale": "MP_Christmas3_Tat_011_F",
+    "Zone": "ZONE_HEAD",
+    "ZoneID": 1,
+    "Price": 16500
+  },
+  {
+    "Name": "TAT_X6_012",
+    "LocalizedName": "Skull Jester",
+    "HashNameMale": "MP_Christmas3_Tat_012_M",
+    "HashNameFemale": "MP_Christmas3_Tat_012_F",
+    "Zone": "ZONE_HEAD",
+    "ZoneID": 1,
+    "Price": 24500
+  },
+  {
+    "Name": "TAT_X6_013",
+    "LocalizedName": "Budonk-adonk!",
+    "HashNameMale": "MP_Christmas3_Tat_013_M",
+    "HashNameFemale": "MP_Christmas3_Tat_013_F",
+    "Zone": "ZONE_HEAD",
+    "ZoneID": 1,
+    "Price": 0
+  },
+  {
+    "Name": "TAT_X6_014",
+    "LocalizedName": "Masked Machete Killer",
+    "HashNameMale": "MP_Christmas3_Tat_014_M",
+    "HashNameFemale": "MP_Christmas3_Tat_014_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 62250
+  },
+  {
+    "Name": "TAT_X6_015",
+    "LocalizedName": "Killer",
+    "HashNameMale": "MP_Christmas3_Tat_015_M",
+    "HashNameFemale": "MP_Christmas3_Tat_015_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 42600
+  },
+  {
+    "Name": "TAT_X6_016",
+    "LocalizedName": "Powwer",
+    "HashNameMale": "MP_Christmas3_Tat_016_M",
+    "HashNameFemale": "MP_Christmas3_Tat_016_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 39600
+  },
+  {
+    "Name": "TAT_X6_017",
+    "LocalizedName": "Two Headed Beast",
+    "HashNameMale": "MP_Christmas3_Tat_017_M",
+    "HashNameFemale": "MP_Christmas3_Tat_017_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 41000
+  },
+  {
+    "Name": "TAT_X6_018",
+    "LocalizedName": "Dudes",
+    "HashNameMale": "MP_Christmas3_Tat_018_M",
+    "HashNameFemale": "MP_Christmas3_Tat_018_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 38000
+  },
+  {
+    "Name": "TAT_X6_019",
+    "LocalizedName": "Fooligan Jester",
+    "HashNameMale": "MP_Christmas3_Tat_019_M",
+    "HashNameFemale": "MP_Christmas3_Tat_019_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 44450
+  },
+  {
+    "Name": "TAT_X6_020",
+    "LocalizedName": "Vile Smile",
+    "HashNameMale": "MP_Christmas3_Tat_020_M",
+    "HashNameFemale": "MP_Christmas3_Tat_020_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 14450
+  },
+  {
+    "Name": "TAT_X6_021",
+    "LocalizedName": "Demon Skull Jester",
+    "HashNameMale": "MP_Christmas3_Tat_021_M",
+    "HashNameFemale": "MP_Christmas3_Tat_021_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 42950
+  },
+  {
+    "Name": "TAT_X6_022",
+    "LocalizedName": "Fatal Incursion Outline",
+    "HashNameMale": "MP_Christmas3_Tat_022_M",
+    "HashNameFemale": "MP_Christmas3_Tat_022_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 32900
+  },
+  {
+    "Name": "TAT_X6_023",
+    "LocalizedName": "Many-Headed Beast",
+    "HashNameMale": "MP_Christmas3_Tat_023_M",
+    "HashNameFemale": "MP_Christmas3_Tat_023_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 49950
+  },
+  {
+    "Name": "TAT_X6_024",
+    "LocalizedName": "Demon Stitches",
+    "HashNameMale": "MP_Christmas3_Tat_024_M",
+    "HashNameFemale": "MP_Christmas3_Tat_024_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 27900
+  },
+  {
+    "Name": "TAT_X6_025",
+    "LocalizedName": "Collector",
+    "HashNameMale": "MP_Christmas3_Tat_025_M",
+    "HashNameFemale": "MP_Christmas3_Tat_025_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 64900
+  },
+  {
+    "Name": "TAT_X6_026",
+    "LocalizedName": "Fooligan Clown",
+    "HashNameMale": "MP_Christmas3_Tat_026_M",
+    "HashNameFemale": "MP_Christmas3_Tat_026_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 29150
+  },
+  {
+    "Name": "TAT_X6_027",
+    "LocalizedName": "Orang-O-Tang Dude",
+    "HashNameMale": "MP_Christmas3_Tat_027_M",
+    "HashNameFemale": "MP_Christmas3_Tat_027_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 23300
+  },
+  {
+    "Name": "TAT_X6_028",
+    "LocalizedName": "Dude Outline",
+    "HashNameMale": "MP_Christmas3_Tat_028_M",
+    "HashNameFemale": "MP_Christmas3_Tat_028_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 14500
+  },
+  {
+    "Name": "TAT_X6_029",
+    "LocalizedName": "Orang-O-Tang Gray",
+    "HashNameMale": "MP_Christmas3_Tat_029_M",
+    "HashNameFemale": "MP_Christmas3_Tat_029_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 19850
+  },
+  {
+    "Name": "TAT_X6_030",
+    "LocalizedName": "Dude Jester",
+    "HashNameMale": "MP_Christmas3_Tat_030_M",
+    "HashNameFemale": "MP_Christmas3_Tat_030_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 26550
+  },
+  {
+    "Name": "TAT_X6_031",
+    "LocalizedName": "Sailor Fuku Killer",
+    "HashNameMale": "MP_Christmas3_Tat_031_M",
+    "HashNameFemale": "MP_Christmas3_Tat_031_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 24200
+  },
+  {
+    "Name": "TAT_X6_032",
+    "LocalizedName": "Fooligan",
+    "HashNameMale": "MP_Christmas3_Tat_032_M",
+    "HashNameFemale": "MP_Christmas3_Tat_032_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 27800
+  },
+  {
+    "Name": "TAT_X6_033",
+    "LocalizedName": "Fooligan Impotent Rage",
+    "HashNameMale": "MP_Christmas3_Tat_033_M",
+    "HashNameFemale": "MP_Christmas3_Tat_033_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 27950
+  },
+  {
+    "Name": "TAT_X6_034",
+    "LocalizedName": "Zombie Head",
+    "HashNameMale": "MP_Christmas3_Tat_034_M",
+    "HashNameFemale": "MP_Christmas3_Tat_034_F",
+    "Zone": "ZONE_LEFT_LEG",
+    "ZoneID": 4,
+    "Price": 32450
+  },
+  {
+    "Name": "TAT_X6_035",
+    "LocalizedName": "Erupting Skeleton",
+    "HashNameMale": "MP_Christmas3_Tat_035_M",
+    "HashNameFemale": "MP_Christmas3_Tat_035_F",
+    "Zone": "ZONE_RIGHT_LEG",
+    "ZoneID": 5,
+    "Price": 31650
+  },
+  {
+    "Name": "TAT_X6_036",
+    "LocalizedName": "B'Donk Now Crank It Later",
+    "HashNameMale": "MP_Christmas3_Tat_036_M",
+    "HashNameFemale": "MP_Christmas3_Tat_036_F",
+    "Zone": "ZONE_RIGHT_LEG",
+    "ZoneID": 5,
+    "Price": 34400
+  },
+  {
+    "Name": "TAT_X6_037",
+    "LocalizedName": "Orang-O-Tang Grenade",
+    "HashNameMale": "MP_Christmas3_Tat_037_M",
+    "HashNameFemale": "MP_Christmas3_Tat_037_F",
+    "Zone": "ZONE_LEFT_LEG",
+    "ZoneID": 4,
+    "Price": 17500
+  },
+  {
+    "Name": "TAT_X6_038",
+    "LocalizedName": "Fool",
+    "HashNameMale": "MP_Christmas3_Tat_038_M",
+    "HashNameFemale": "MP_Christmas3_Tat_038_F",
+    "Zone": "ZONE_LEFT_LEG",
+    "ZoneID": 4,
+    "Price": 19950
+  },
+  {
+    "Name": "TAT_X6_039",
+    "LocalizedName": "Jack Me",
+    "HashNameMale": "MP_Christmas3_Tat_039_M",
+    "HashNameFemale": "MP_Christmas3_Tat_039_F",
+    "Zone": "ZONE_RIGHT_LEG",
+    "ZoneID": 5,
+    "Price": 29900
+  },
+  {
+    "Name": "TAT_X6_040",
+    "LocalizedName": "Monkey",
+    "HashNameMale": "MP_Christmas3_Tat_040_M",
+    "HashNameFemale": "MP_Christmas3_Tat_040_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 30000
+  },
+  {
+    "Name": "TAT_X6_041",
+    "LocalizedName": "Dragon",
+    "HashNameMale": "MP_Christmas3_Tat_041_M",
+    "HashNameFemale": "MP_Christmas3_Tat_041_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 30000
+  },
+  {
+    "Name": "TAT_X6_042",
+    "LocalizedName": "Snake",
+    "HashNameMale": "MP_Christmas3_Tat_042_M",
+    "HashNameFemale": "MP_Christmas3_Tat_042_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 30000
+  },
+  {
+    "Name": "TAT_X6_043",
+    "LocalizedName": "Goat",
+    "HashNameMale": "MP_Christmas3_Tat_043_M",
+    "HashNameFemale": "MP_Christmas3_Tat_043_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 30000
+  },
+  {
+    "Name": "TAT_X6_044",
+    "LocalizedName": "Rat",
+    "HashNameMale": "MP_Christmas3_Tat_044_M",
+    "HashNameFemale": "MP_Christmas3_Tat_044_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 30000
+  },
+  {
+    "Name": "TAT_X6_045",
+    "LocalizedName": "Rabbit",
+    "HashNameMale": "MP_Christmas3_Tat_045_M",
+    "HashNameFemale": "MP_Christmas3_Tat_045_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 0
+  },
+  {
+    "Name": "TAT_X6_046",
+    "LocalizedName": "Ox",
+    "HashNameMale": "MP_Christmas3_Tat_046_M",
+    "HashNameFemale": "MP_Christmas3_Tat_046_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 30000
+  },
+  {
+    "Name": "TAT_X6_047",
+    "LocalizedName": "Pig",
+    "HashNameMale": "MP_Christmas3_Tat_047_M",
+    "HashNameFemale": "MP_Christmas3_Tat_047_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 30000
+  },
+  {
+    "Name": "TAT_X6_048",
+    "LocalizedName": "Rooster",
+    "HashNameMale": "MP_Christmas3_Tat_048_M",
+    "HashNameFemale": "MP_Christmas3_Tat_048_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 30000
+  },
+  {
+    "Name": "TAT_X6_049",
+    "LocalizedName": "Dog",
+    "HashNameMale": "MP_Christmas3_Tat_049_M",
+    "HashNameFemale": "MP_Christmas3_Tat_049_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 30000
+  },
+  {
+    "Name": "TAT_X6_050",
+    "LocalizedName": "Horse",
+    "HashNameMale": "MP_Christmas3_Tat_050_M",
+    "HashNameFemale": "MP_Christmas3_Tat_050_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 30000
+  },
+  {
+    "Name": "TAT_X6_051",
+    "LocalizedName": "Tiger",
+    "HashNameMale": "MP_Christmas3_Tat_051_M",
+    "HashNameFemale": "MP_Christmas3_Tat_051_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 30000
+  }
+]
