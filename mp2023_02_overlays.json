@@ -1,0 +1,290 @@
+[
+  {
+    "Name": "TAT_X7_000",
+    "LocalizedName": "Mk II Girl",
+    "HashNameMale": "MP_2023_02_Tat_000_M",
+    "HashNameFemale": "MP_2023_02_Tat_000_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 21150
+  },
+  {
+    "Name": "TAT_X7_001",
+    "LocalizedName": "Pegassi Flames",
+    "HashNameMale": "MP_2023_02_Tat_001_M",
+    "HashNameFemale": "MP_2023_02_Tat_001_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 32350
+  },
+  {
+    "Name": "TAT_X7_002",
+    "LocalizedName": "Flaming Driver",
+    "HashNameMale": "MP_2023_02_Tat_002_M",
+    "HashNameFemale": "MP_2023_02_Tat_002_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 30950
+  },
+  {
+    "Name": "TAT_X7_003",
+    "LocalizedName": "Top Dead Center",
+    "HashNameMale": "MP_2023_02_Tat_003_M",
+    "HashNameFemale": "MP_2023_02_Tat_003_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 31400
+  },
+  {
+    "Name": "TAT_X7_004",
+    "LocalizedName": "Rearview",
+    "HashNameMale": "MP_2023_02_Tat_004_M",
+    "HashNameFemale": "MP_2023_02_Tat_004_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 49000
+  },
+  {
+    "Name": "TAT_X7_005",
+    "LocalizedName": "Hot Rod Creep",
+    "HashNameMale": "MP_2023_02_Tat_005_M",
+    "HashNameFemale": "MP_2023_02_Tat_005_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 29900
+  },
+  {
+    "Name": "TAT_X7_006",
+    "LocalizedName": "Mamba Sleeve",
+    "HashNameMale": "MP_2023_02_Tat_006_M",
+    "HashNameFemale": "MP_2023_02_Tat_006_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 48400
+  },
+  {
+    "Name": "TAT_X7_007",
+    "LocalizedName": "Stick Shift",
+    "HashNameMale": "MP_2023_02_Tat_007_M",
+    "HashNameFemale": "MP_2023_02_Tat_007_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 36300
+  },
+  {
+    "Name": "TAT_X7_008",
+    "LocalizedName": "Sparkey",
+    "HashNameMale": "MP_2023_02_Tat_008_M",
+    "HashNameFemale": "MP_2023_02_Tat_008_F",
+    "Zone": "ZONE_HEAD",
+    "ZoneID": 1,
+    "Price": 25900
+  },
+  {
+    "Name": "TAT_X7_009",
+    "LocalizedName": "Sparks Flying",
+    "HashNameMale": "MP_2023_02_Tat_009_M",
+    "HashNameFemale": "MP_2023_02_Tat_009_F",
+    "Zone": "ZONE_HEAD",
+    "ZoneID": 1,
+    "Price": 22400
+  },
+  {
+    "Name": "TAT_X7_010",
+    "LocalizedName": "Hot Piston",
+    "HashNameMale": "MP_2023_02_Tat_010_M",
+    "HashNameFemale": "MP_2023_02_Tat_010_F",
+    "Zone": "ZONE_HEAD",
+    "ZoneID": 1,
+    "Price": 27350
+  },
+  {
+    "Name": "TAT_X7_011",
+    "LocalizedName": "Ignition",
+    "HashNameMale": "MP_2023_02_Tat_011_M",
+    "HashNameFemale": "MP_2023_02_Tat_011_F",
+    "Zone": "ZONE_HEAD",
+    "ZoneID": 1,
+    "Price": 28950
+  },
+  {
+    "Name": "TAT_X7_012",
+    "LocalizedName": "Tempesta Girl",
+    "HashNameMale": "MP_2023_02_Tat_012_M",
+    "HashNameFemale": "MP_2023_02_Tat_012_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 60750
+  },
+  {
+    "Name": "TAT_X7_013",
+    "LocalizedName": "Eyeball Shifter",
+    "HashNameMale": "MP_2023_02_Tat_013_M",
+    "HashNameFemale": "MP_2023_02_Tat_013_F",
+    "Zone": "ZONE_LEFT_LEG",
+    "ZoneID": 4,
+    "Price": 38550
+  },
+  {
+    "Name": "TAT_X7_014",
+    "LocalizedName": "Speed Demon",
+    "HashNameMale": "MP_2023_02_Tat_014_M",
+    "HashNameFemale": "MP_2023_02_Tat_014_F",
+    "Zone": "ZONE_LEFT_LEG",
+    "ZoneID": 4,
+    "Price": 30800
+  },
+  {
+    "Name": "TAT_X7_015",
+    "LocalizedName": "Comedy and Tragedy",
+    "HashNameMale": "MP_2023_02_Tat_015_M",
+    "HashNameFemale": "MP_2023_02_Tat_015_F",
+    "Zone": "ZONE_LEFT_LEG",
+    "ZoneID": 4,
+    "Price": 37150
+  },
+  {
+    "Name": "TAT_X7_016",
+    "LocalizedName": "Voodoo Skyline",
+    "HashNameMale": "MP_2023_02_Tat_016_M",
+    "HashNameFemale": "MP_2023_02_Tat_016_F",
+    "Zone": "ZONE_RIGHT_LEG",
+    "ZoneID": 5,
+    "Price": 20450
+  },
+  {
+    "Name": "TAT_X7_017",
+    "LocalizedName": "Sugoi Flames",
+    "HashNameMale": "MP_2023_02_Tat_017_M",
+    "HashNameFemale": "MP_2023_02_Tat_017_F",
+    "Zone": "ZONE_RIGHT_LEG",
+    "ZoneID": 5,
+    "Price": 36600
+  },
+  {
+    "Name": "TAT_X7_018",
+    "LocalizedName": "Gearhead",
+    "HashNameMale": "MP_2023_02_Tat_018_M",
+    "HashNameFemale": "MP_2023_02_Tat_018_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 66900
+  },
+  {
+    "Name": "TAT_X7_019",
+    "LocalizedName": "Crank Head",
+    "HashNameMale": "MP_2023_02_Tat_019_M",
+    "HashNameFemale": "MP_2023_02_Tat_019_F",
+    "Zone": "ZONE_RIGHT_LEG",
+    "ZoneID": 5,
+    "Price": 36950
+  },
+  {
+    "Name": "TAT_X7_020",
+    "LocalizedName": "V8 Demon",
+    "HashNameMale": "MP_2023_02_Tat_020_M",
+    "HashNameFemale": "MP_2023_02_Tat_020_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 51850
+  },
+  {
+    "Name": "TAT_X7_021",
+    "LocalizedName": "Devil in the Back Seat",
+    "HashNameMale": "MP_2023_02_Tat_021_M",
+    "HashNameFemale": "MP_2023_02_Tat_021_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 65850
+  },
+  {
+    "Name": "TAT_X7_022",
+    "LocalizedName": "Turbo Hiss",
+    "HashNameMale": "MP_2023_02_Tat_022_M",
+    "HashNameFemale": "MP_2023_02_Tat_022_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 34000
+  },
+  {
+    "Name": "TAT_X7_023",
+    "LocalizedName": "Dewbauchee Stylized",
+    "HashNameMale": "MP_2023_02_Tat_023_M",
+    "HashNameFemale": "MP_2023_02_Tat_023_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 55950
+  },
+  {
+    "Name": "TAT_X7_024",
+    "LocalizedName": "Futo Smoke",
+    "HashNameMale": "MP_2023_02_Tat_024_M",
+    "HashNameFemale": "MP_2023_02_Tat_024_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 39100
+  },
+  {
+    "Name": "TAT_X7_025",
+    "LocalizedName": "Benefactor Demon",
+    "HashNameMale": "MP_2023_02_Tat_025_M",
+    "HashNameFemale": "MP_2023_02_Tat_025_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 41550
+  },
+  {
+    "Name": "TAT_X7_026",
+    "LocalizedName": "Widowmaker",
+    "HashNameMale": "MP_2023_02_Tat_026_M",
+    "HashNameFemale": "MP_2023_02_Tat_026_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 54750
+  },
+  {
+    "Name": "TAT_X7_027",
+    "LocalizedName": "Engine Heart",
+    "HashNameMale": "MP_2023_02_Tat_027_M",
+    "HashNameFemale": "MP_2023_02_Tat_027_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 46650
+  },
+  {
+    "Name": "TAT_X7_028",
+    "LocalizedName": "Sabre Turbo Eyes",
+    "HashNameMale": "MP_2023_02_Tat_028_M",
+    "HashNameFemale": "MP_2023_02_Tat_028_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 31250
+  },
+  {
+    "Name": "TAT_X7_029",
+    "LocalizedName": "Turbo Dragon",
+    "HashNameMale": "MP_2023_02_Tat_029_M",
+    "HashNameFemale": "MP_2023_02_Tat_029_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 42850
+  },
+  {
+    "Name": "TAT_X7_030",
+    "LocalizedName": "Fooligan Hellfire",
+    "HashNameMale": "MP_2023_02_Tat_030_M",
+    "HashNameFemale": "MP_2023_02_Tat_030_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 29450
+  },
+  {
+    "Name": "TAT_X7_031",
+    "LocalizedName": "Hot Rod Demon",
+    "HashNameMale": "MP_2023_02_Tat_031_M",
+    "HashNameFemale": "MP_2023_02_Tat_031_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 40400
+  }
+]
